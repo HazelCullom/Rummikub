@@ -1,6 +1,8 @@
 # Rummikub
 A recreation of the board game "Rummikub" in Java
 
+-- Currently only playable inside of Eclipse IDE -- 
+
 In this version, the board is represented by a large grid, with your hand at the bottom of the screen.
 To play, click a tile in your hand to select it, and click on the board to place it. The goal is to run out of pieces.
 On your turn you can:
